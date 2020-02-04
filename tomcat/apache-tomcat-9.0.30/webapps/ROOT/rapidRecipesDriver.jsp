@@ -58,6 +58,22 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center justify-content-center text-center">
         <div class="col-lg-10 align-self-end">
+        	<form>
+			  <div class="form-group">
+			    <label for="exampleInputEmail1">Email address</label>
+			    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+			    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+			  </div>
+			  <div class="form-group">
+				    <label for="exampleInputPassword1">Password</label>
+				    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+				  </div>
+				  <div class="form-check">
+				    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+				    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+				  </div>
+				  <button type="submit" class="btn btn-primary">Submit</button>
+			</form>
           <h1 class="text-uppercase text-white font-weight-bold">Hi, I'm Ryan</h1>
           <hr class="divider my-4">
         </div>
