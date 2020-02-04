@@ -130,7 +130,7 @@
             <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
-                Category
+                Project
               </div>
               <div class="project-name">
                 Rapid Recipes
