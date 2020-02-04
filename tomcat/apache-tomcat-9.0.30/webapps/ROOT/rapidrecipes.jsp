@@ -24,7 +24,7 @@
             </div>
         </div>
     </nav>
-    <header class="masthead text-center text-white d-flex" style="background-image: url(&quot;assets/img/Canva%20-%20Cooked%20Food%20On%20Paper%20Plates.jpg&quot;);">
+    <header class="masthead text-center text-white d-flex" style="background-image: img/potluck.jpg">
         <div class="container my-auto">
             <div class="row">
                 <div class="col-lg-10 mx-auto">
