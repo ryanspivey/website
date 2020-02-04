@@ -60,12 +60,10 @@
         <div class="col-lg-10 align-self-end">
         	<form>
 			  <div class="form-group">
-			    <label for="exampleInputEmail1">Email address</label>
 			    <input type="email" class="form-control" id="inputRecipeURL" aria-describedby="urlHelp" placeholder="Enter recipe URL">
 			  </div>
 			  <button type="submit" class="btn btn-primary">Submit</button>
 			</form>
-          <h1 class="text-uppercase text-white font-weight-bold">Hi, I'm Ryan</h1>
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
