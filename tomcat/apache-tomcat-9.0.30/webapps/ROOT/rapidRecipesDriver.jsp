@@ -67,7 +67,7 @@
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
-          <p class="text-white-75 font-weight-light mb-5">"A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are." - Mr. Robot</p>
+          <p class="text-white-75 font-weight-light mb-5">I'm currently working on a solution to universalize the recipe scraping. Until then, a finite number of recipe websites are supported. At this moment, BudgetBytes is the only supported website.</p>
           <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
         </div>
       </div>
