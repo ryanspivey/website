@@ -1,13 +1,13 @@
-package webScrape;
+package rapidRecipes.engine;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 
-import websites.BaseRecipe;
 import net.ricecode.similarity.JaroWinklerStrategy;
 import net.ricecode.similarity.SimilarityStrategy;
 import net.ricecode.similarity.StringSimilarityService;
 import net.ricecode.similarity.StringSimilarityServiceImpl;
+import rapidRecipes.domains.BaseRecipe;
 
 
 public class Stacker {

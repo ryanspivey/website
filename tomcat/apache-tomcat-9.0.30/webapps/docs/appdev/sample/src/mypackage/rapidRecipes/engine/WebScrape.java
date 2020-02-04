@@ -1,10 +1,10 @@
-package webScrape;
+package rapidRecipes.engine;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import websites.BaseRecipe;
-import websites.BudgetBytes;
+import rapidRecipes.domains.BaseRecipe;
+import rapidRecipes.domains.BudgetBytes;
 
 
 

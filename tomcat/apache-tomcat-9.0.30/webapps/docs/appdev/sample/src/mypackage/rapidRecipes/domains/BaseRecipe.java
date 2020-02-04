@@ -1,8 +1,8 @@
-package websites;
+package rapidRecipes.domains;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import webScrape.Ingredient;
+import rapidRecipes.engine.Ingredient;
 
 public class BaseRecipe {
 	ArrayList<Ingredient> ingredients = new ArrayList<Ingredient>();

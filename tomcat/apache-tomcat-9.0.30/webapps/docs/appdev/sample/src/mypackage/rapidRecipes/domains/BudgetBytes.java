@@ -1,4 +1,4 @@
-package websites;
+package rapidRecipes.domains;
 
 
 import java.util.ArrayList;
@@ -8,11 +8,9 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
-import webScrape.Fraction;
-import webScrape.Ingredient;
-//git testing testing
-import webScrape.unitConversion;
-import webScrape.unitConversion;
+import rapidRecipes.engine.Fraction;
+import rapidRecipes.engine.Ingredient;
+import rapidRecipes.engine.unitConversion;
 
 public class BudgetBytes {
 	public BaseRecipe base;

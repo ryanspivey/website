@@ -1,4 +1,4 @@
-package webScrape;
+package rapidRecipes.engine;
 
 public class Ingredient {
 	String unit;
