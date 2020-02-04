@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Comparator;
 
 import websites.BaseRecipe;
-import webScrape.MergeSort;
 import net.ricecode.similarity.JaroWinklerStrategy;
 import net.ricecode.similarity.SimilarityStrategy;
 import net.ricecode.similarity.StringSimilarityService;
