@@ -133,7 +133,7 @@
                 Category
               </div>
               <div class="project-name">
-                Project Name
+                Rapid Recipes
               </div>
             </div>
           </a>
