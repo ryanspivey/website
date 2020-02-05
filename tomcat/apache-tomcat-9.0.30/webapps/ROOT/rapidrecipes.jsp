@@ -24,7 +24,7 @@
             </div>
         </div>
     </nav>
-    <header class="masthead text-center text-white d-flex" style="background-image: img/potluck.jpg">
+    <header class="masthead text-center text-white d-flex" style="background-image:">
         <div class="container my-auto">
             <div class="row">
                 <div class="col-lg-10 mx-auto">
