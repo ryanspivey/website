@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Home - Ryan Spivey</title>
-    <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
@@ -24,7 +24,7 @@
             </div>
         </div>
     </nav>
-    <header class="masthead text-center text-white d-flex" style="background-image:">
+    <header class="masthead text-center text-white d-flex" style="background-image: url(&quot;assets/img/Canva%20-%20Cooked%20Food%20On%20Paper%20Plates.jpg&quot;);">
         <div class="container my-auto">
             <div class="row">
                 <div class="col-lg-10 mx-auto">
